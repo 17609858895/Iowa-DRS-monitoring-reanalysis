@@ -1,0 +1,114 @@
+{
+  "files": [
+    {
+      "file": "analysis/common.py",
+      "source": "Manuscript_Package_20261023/reproducibility/study/scripts/common.py",
+      "source_sha256": "e5eb14901140e7c5077fdc1a62f72c3fb0da037e2e73cbd913d0f5b3933269d7",
+      "release_sha256": "f8797c986741b5b0ccdb40927288ba6f13dbbd5a599934599508846e709172b2",
+      "adaptation": "portable data/output configuration and evidence-aligned comments/docstrings only"
+    },
+    {
+      "file": "analysis/exp01_benchmark.py",
+      "source": "Manuscript_Package_20261023/reproducibility/study/scripts/exp01_benchmark.py",
+      "source_sha256": "b7ac626b465de3dfb3746188b5a316a7d0571609acf0e00e808f3d7bf305d922",
+      "release_sha256": "f5329ea3910f90f2bbf1e1cb6a4a7edadc12a4c1b9ac06e08570a97852873cc4",
+      "adaptation": "portable data/output configuration and evidence-aligned comments/docstrings only"
+    },
+    {
+      "file": "analysis/exp02_anchored.py",
+      "source": "Manuscript_Package_20261023/reproducibility/study/scripts/exp02_anchored.py",
+      "source_sha256": "db8d4b01203f029a64fb476c974daf9e2dc2dc5956f824f07b2daadbe82de6fb",
+      "release_sha256": "db8d4b01203f029a64fb476c974daf9e2dc2dc5956f824f07b2daadbe82de6fb",
+      "adaptation": "unmodified analysis snapshot"
+    },
+    {
+      "file": "analysis/exp03_dmlcal.py",
+      "source": "Manuscript_Package_20261023/reproducibility/study/scripts/exp03_dmlcal.py",
+      "source_sha256": "5dd9b1435f3ac3ae131b0934ccd940ed06ae9ef4b1a729846f2c92e7d69075dd",
+      "release_sha256": "aad082fb1321c629a4c3080be2e054ab351f0dabaa5ad966554ea46efa1fd92d",
+      "adaptation": "unmodified analysis snapshot"
+    },
+    {
+      "file": "analysis/exp04_lifetime.py",
+      "source": "Manuscript_Package_20261023/reproducibility/study/scripts/exp04_lifetime.py",
+      "source_sha256": "452a07e3c9ea05e684999ac64e75f2701f3d0cebfe8fbe4adeed2d6f655fa437",
+      "release_sha256": "452a07e3c9ea05e684999ac64e75f2701f3d0cebfe8fbe4adeed2d6f655fa437",
+      "adaptation": "unmodified analysis snapshot"
+    },
+    {
+      "file": "analysis/exp05_hsw_load_dml.py",
+      "source": "Manuscript_Package_20261023/reproducibility/study/scripts/exp05_hsw_load_dml.py",
+      "source_sha256": "9149326ca2d7ae29e16a9f05538419caeebde8bffdfb0e25afefa20d92416725",
+      "release_sha256": "83905a5c8c63360776c496740f6a3ef38e88cacd28d0c4c1b1cd6158a60c2095",
+      "adaptation": "unmodified analysis snapshot"
+    },
+    {
+      "file": "analysis/exp06_greybox.py",
+      "source": "Manuscript_Package_20261023/reproducibility/study/scripts/exp06_greybox.py",
+      "source_sha256": "a021f704bcbdd174f8aa895940dfab4c61c10437c5caf6846487ae0c8f1a7c3d",
+      "release_sha256": "4d2aac12c1c0ecaeb3613b99e395d345cc169fb870b473da37e3258a885444f6",
+      "adaptation": "unmodified analysis snapshot"
+    },
+    {
+      "file": "analysis/exp07_wrongday.py",
+      "source": "Manuscript_Package_20261023/reproducibility/study/scripts/exp07_wrongday.py",
+      "source_sha256": "0f39beed490b0a9f84366da752c7850102933aa8fc0d8608c40ef203f0c86e3c",
+      "release_sha256": "4415af77d2139b89c93d54168c090ad78c6dee8f58469e73085a1da30ce81d36",
+      "adaptation": "portable data/output configuration and evidence-aligned comments/docstrings only"
+    },
+    {
+      "file": "analysis/exp10_skill_ci.py",
+      "source": "Manuscript_Package_20261023/reproducibility/study/scripts/exp10_skill_ci.py",
+      "source_sha256": "3f869843f0a482193c91cf3691cf66f74016784ca05dd6da20ef18f179ef2b87",
+      "release_sha256": "d84cac5ad4cb054881c4bf42ce0dc56d525989cfe89facdc2b8b5eb14531ff5c",
+      "adaptation": "portable data/output configuration and evidence-aligned comments/docstrings only"
+    },
+    {
+      "file": "analysis/exp10b_dR2.py",
+      "source": "Manuscript_Package_20261023/reproducibility/study/scripts/exp10b_dR2.py",
+      "source_sha256": "e6f2a28d5ce0946962ebad19fd1f351ab1e2fe498c6ef60822d5059cf5f85de6",
+      "release_sha256": "e6f2a28d5ce0946962ebad19fd1f351ab1e2fe498c6ef60822d5059cf5f85de6",
+      "adaptation": "unmodified analysis snapshot"
+    },
+    {
+      "file": "analysis/exp11_lifetime_v2.py",
+      "source": "Manuscript_Package_20261023/reproducibility/study/scripts/exp11_lifetime_v2.py",
+      "source_sha256": "124f6c3374b520598898ed97d432cd2de748bc053f7c84af3259d794b605b913",
+      "release_sha256": "275ab0fdd37e848aa1d58c8f9b7507427aa690e15e1e4cee676d21e817583c19",
+      "adaptation": "unmodified analysis snapshot"
+    },
+    {
+      "file": "analysis/exp12_pareto.py",
+      "source": "Manuscript_Package_20261023/reproducibility/study/scripts/exp12_pareto.py",
+      "source_sha256": "ba18835932a904dddad2d03cf07ca5bdffc3bcf62aa5194d1190c66bac821487",
+      "release_sha256": "ba18835932a904dddad2d03cf07ca5bdffc3bcf62aa5194d1190c66bac821487",
+      "adaptation": "unmodified analysis snapshot"
+    },
+    {
+      "file": "analysis/exp13_si.py",
+      "source": "Manuscript_Package_20261023/reproducibility/study/scripts/exp13_si.py",
+      "source_sha256": "1100a1dc2fa3fda0065d69a03ecd935e31c4186bc0cada1009734dc4243dbc33",
+      "release_sha256": "286ba487bab1d7a33332a2a095ff02d259071e0b930a2937ff8ab549e560a379",
+      "adaptation": "portable data/output configuration and evidence-aligned comments/docstrings only"
+    },
+    {
+      "file": "analysis/exp17_power.py",
+      "source": "Manuscript_Package_20261023/reproducibility/study/scripts/exp17_power.py",
+      "source_sha256": "e0ab79c79ce01060f8dcf9ca32245f941dcdf6e84dc5a7a0eaa61789c33e58f8",
+      "release_sha256": "a2a06a217c6a8bd9e18392ed099a45351816269f72a80c01496668dd4d21cd6c",
+      "adaptation": "portable data/output configuration and evidence-aligned comments/docstrings only"
+    },
+    {
+      "file": "analysis/fig_inputs.py",
+      "source": "Manuscript_Package_20261023/reproducibility/study/scripts/fig_inputs.py",
+      "source_sha256": "27ac21597f094596c8c7bce2ed1889e21ef24c39b2ba0ddf79806ea2cbdb5ec2",
+      "release_sha256": "da2890ed06ff3267f2c438578026a2290b018f950083f45fa81ee2b14159e8d5",
+      "adaptation": "unmodified analysis snapshot"
+    }
+  ],
+  "notes": [
+    "No raw data, frozen outputs, manuscript, SI, figures, personal paths or credentials are included as payloads.",
+    "Numerical executable analysis is unchanged except portable input/output paths.",
+    "The exp04 RMST grid is 0..tau-1, preserving the corrected [0,28] integration."
+  ]
+}

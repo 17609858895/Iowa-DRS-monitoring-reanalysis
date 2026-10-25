@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+data/
+results/
+figures/
+*.docx
+*.pdf
+*.png
+*.jpg
+*.zip
+*.sqlite*
+*.log
+.DS_Store
+Thumbs.db

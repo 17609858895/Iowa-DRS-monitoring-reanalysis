@@ -1,0 +1,137 @@
+{
+  "dataset_doi": "10.25820/data.008042",
+  "record_url": "https://iro.uiowa.edu/esploro/outputs/dataset/9984948241202771",
+  "authors": [
+    "Zoe A. M. Kramin",
+    "Craig L. Just"
+  ],
+  "hashes": "Locally recorded SHA-256 of the verified public snapshot, not publisher-provided checksums.",
+  "files": [
+    {
+      "name": "01_README.txt",
+      "source_url": "https://iro.uiowa.edu/view/fileRedirect?instCode=01IOWA_INST&filePid=13981572910002771&download=true",
+      "bytes": 11777,
+      "sha256": "7cba256523d704fb96e61e0361a874d69d9f618debed1713d164e06977358689"
+    },
+    {
+      "name": "02_AllTrainDigestate.csv",
+      "source_url": "https://iro.uiowa.edu/view/fileRedirect?instCode=01IOWA_INST&filePid=13981572900002771&download=true",
+      "bytes": 308227,
+      "sha256": "69245f4c44ac04803e521a90d32d0f729cd72c3ff8eff21c3c154c821c62b2dc"
+    },
+    {
+      "name": "03_AllTrainDigestate_data_dictionary.csv",
+      "source_url": "https://iro.uiowa.edu/view/fileRedirect?instCode=01IOWA_INST&filePid=13981572420002771&download=true",
+      "bytes": 15314,
+      "sha256": "41be0cd96950edd2063eef79ef6cbdf10a19fdc6b1f38d03da61878b48b21b67"
+    },
+    {
+      "name": "04_AllTrainHSW.csv",
+      "source_url": "https://iro.uiowa.edu/view/fileRedirect?instCode=01IOWA_INST&filePid=13981572880002771&download=true",
+      "bytes": 257685,
+      "sha256": "a910d7a149f582d3184d5e6d63985969ebd12f4cc271bdf0e67f9690cdfddd43"
+    },
+    {
+      "name": "05_AllTrainHSW_data_dictionary.csv",
+      "source_url": "https://iro.uiowa.edu/view/fileRedirect?instCode=01IOWA_INST&filePid=13981572410002771&download=true",
+      "bytes": 15419,
+      "sha256": "7d0f65bda1030c292d9cac01b1d37eb5904ebe70bc78f58f49014742ff02c04a"
+    },
+    {
+      "name": "06_DECtoMAY_Muscatine_Digestate.csv",
+      "source_url": "https://iro.uiowa.edu/view/fileRedirect?instCode=01IOWA_INST&filePid=13981572860002771&download=true",
+      "bytes": 316810,
+      "sha256": "6b2817dfd0428d3e85c16da659c288a2a8431bdc0d0423aadc89c18fc1de0aa6"
+    },
+    {
+      "name": "07_DECtoMAY_Muscatine_Digestate_data_dictionary.csv",
+      "source_url": "https://iro.uiowa.edu/view/fileRedirect?instCode=01IOWA_INST&filePid=13981572400002771&download=true",
+      "bytes": 14799,
+      "sha256": "5b9e5802c46b3c458a0ebb3dbea8e59841669742c9df74049641fc9a74022f30"
+    },
+    {
+      "name": "08_DECtoMAY_Muscatine_HSW.csv",
+      "source_url": "https://iro.uiowa.edu/view/fileRedirect?instCode=01IOWA_INST&filePid=13981572840002771&download=true",
+      "bytes": 335608,
+      "sha256": "2923fdefa6040f8ce28da1f78d684d1ff2ef956b16e2604ea6d7cf7d3ffe094b"
+    },
+    {
+      "name": "09_DECtoMAY_Muscatine_HSW_data_dictionary.csv",
+      "source_url": "https://iro.uiowa.edu/view/fileRedirect?instCode=01IOWA_INST&filePid=13981572390002771&download=true",
+      "bytes": 14799,
+      "sha256": "5b9e5802c46b3c458a0ebb3dbea8e59841669742c9df74049641fc9a74022f30"
+    },
+    {
+      "name": "10_Digestate_predictions_output.csv",
+      "source_url": "https://iro.uiowa.edu/view/fileRedirect?instCode=01IOWA_INST&filePid=13981572820002771&download=true",
+      "bytes": 17770,
+      "sha256": "a8a271aaf30671bf76b8eb035a0e31c6562ebb1e41ad0d5489622af798339e3f"
+    },
+    {
+      "name": "11_Digestate_predictions_output_data_dictionary.csv",
+      "source_url": "https://iro.uiowa.edu/view/fileRedirect?instCode=01IOWA_INST&filePid=13981572380002771&download=true",
+      "bytes": 6670,
+      "sha256": "c73443e38b48bb58ff30f276ac32045a672772dfcba9a2c91301657726548a94"
+    },
+    {
+      "name": "12_Digestate_model_metrics_summary.csv",
+      "source_url": "https://iro.uiowa.edu/view/fileRedirect?instCode=01IOWA_INST&filePid=13981572800002771&download=true",
+      "bytes": 960,
+      "sha256": "cee36e0f8ce25624aeed40b7d576a370a9a1a0aa4aac091f1c311976af905ac2"
+    },
+    {
+      "name": "13_Digestate_model_metrics_summary_data_dictionary.csv",
+      "source_url": "https://iro.uiowa.edu/view/fileRedirect?instCode=01IOWA_INST&filePid=13981572370002771&download=true",
+      "bytes": 1862,
+      "sha256": "74880405092ee5df38a9f8c062535945acef52953067e31bd6103191f363d763"
+    },
+    {
+      "name": "14_HSW_predictions_output.csv",
+      "source_url": "https://iro.uiowa.edu/view/fileRedirect?instCode=01IOWA_INST&filePid=13981572780002771&download=true",
+      "bytes": 20879,
+      "sha256": "865cd0dd904bfeb3b3a01985361c4be020b5de6e5433c96acdcd61cd9fd18e78"
+    },
+    {
+      "name": "15_HSW_predictions_output_data_dictionary.csv",
+      "source_url": "https://iro.uiowa.edu/view/fileRedirect?instCode=01IOWA_INST&filePid=13981572360002771&download=true",
+      "bytes": 6739,
+      "sha256": "bed7f6e58b113070ba374e591bd2e77cb4944ad26b2b9f62b6f08849ec13c17a"
+    },
+    {
+      "name": "16_HSW_model_metrics_summary.csv",
+      "source_url": "https://iro.uiowa.edu/view/fileRedirect?instCode=01IOWA_INST&filePid=13981572760002771&download=true",
+      "bytes": 1110,
+      "sha256": "5c4a4abc904c86f4e204b5d24951b471c266a65a2b0cb3815dda2b9403298037"
+    },
+    {
+      "name": "17_HSW_model_metrics_summary_data_dictionary.csv",
+      "source_url": "https://iro.uiowa.edu/view/fileRedirect?instCode=01IOWA_INST&filePid=13981572350002771&download=true",
+      "bytes": 1754,
+      "sha256": "5deb88a4e3799fb22a519b4d523407b8c515b610613e2eff895157c78b0a98a1"
+    },
+    {
+      "name": "18_MainPLSscript.py",
+      "source_url": "https://iro.uiowa.edu/view/fileRedirect?instCode=01IOWA_INST&filePid=13981572150002771&download=true",
+      "bytes": 12482,
+      "sha256": "9ceb88f1857216ca44b0b544a724db3d5c9d9e288f01c3b5bb8563baa60ded1c"
+    },
+    {
+      "name": "19_DownsamplingPLSscript.py",
+      "source_url": "https://iro.uiowa.edu/view/fileRedirect?instCode=01IOWA_INST&filePid=13981572140002771&download=true",
+      "bytes": 16231,
+      "sha256": "9a8ab5de39b511b0bc17f4274392f50f33e59a4da33373533338fedf9ac3f1df"
+    },
+    {
+      "name": "20_Loading.csv",
+      "source_url": "https://iro.uiowa.edu/view/fileRedirect?instCode=01IOWA_INST&filePid=13981572740002771&download=true",
+      "bytes": 25689,
+      "sha256": "65b11e3f5203904f0898e6212e6eae9684618ed91a5ee0391b6b7d75f959baec"
+    },
+    {
+      "name": "21_Loading_data_dictionary.csv",
+      "source_url": "https://iro.uiowa.edu/view/fileRedirect?instCode=01IOWA_INST&filePid=13981572730002771&download=true",
+      "bytes": 3169,
+      "sha256": "40a0eb096deb6442b257eaec15396d6007f33d6a5ba58b3611501d9772b8183a"
+    }
+  ]
+}
