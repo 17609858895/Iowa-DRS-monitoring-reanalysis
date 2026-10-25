@@ -72,6 +72,7 @@ Optional stages are `raw-benchmark`, `exploratory` (retrospective load associati
 - The released digestate timestamp in 2021 is provisionally aligned to 2023, with the original date flag retained in memory. A saved full drop-row sensitivity is not supplied. Numerical pattern flags are not confirmed transcription or analytical errors. Literal VA/Alk/FOS/TAC labels are retained because source sample-fraction descriptions conflict.
 - FOS has 11 recovered published test days versus 14 reported test samples; it is a partial reconstruction. The refitted PLS is not an exact replication of every original preprocessing choice.
 - Interior temporal blocks can have training observations on both sides. They assess transport across omitted time segments; the separate laboratory-schedule analysis uses earlier retained observations only. Its retained-reference fraction is computed over observed reference days after warm-up. Normalized schedule error uses the full target-series mean.
+- Spectral GPR supplies the feed-solids incremental-skill result but is not included in the laboratory-schedule experiment. That experiment compares persistence, date-only GPR, spectral PLS and anchored calendar-adjusted calibration; it does not determine the schedule-specific benefit of the spectral GPR increment.
 - Load/greybox analyses use retrospective filling and interpolation. No causal intervention, methane-production improvement, independent-facility validation or deployment claim follows from these computations.
 
 ## Verification and provenance
