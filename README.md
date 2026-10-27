@@ -1,6 +1,6 @@
 # Temporal and spectral information in anaerobic codigestion monitoring
 
-Core numerical analysis code accompanying **Spectral information and calibration lifetime in full-scale anaerobic codigestion monitoring**. Code contact: Chong Liu.
+Core numerical analysis code accompanying **Benchmarking in-line spectroscopy against sampling date and the latest assay at a full-scale anaerobic codigestion facility**. Code contact: Chong Liu.
 
 The study distinguishes predictive information beyond sampling date, temporal calibration stability, and estimation between laboratory measurements. The repository contains the essential numerical analysis, not the manuscript, raw data, precomputed results, publication artwork, or model weights. It does not provide an externally validated monitoring service.
 
